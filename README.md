@@ -2,7 +2,7 @@
 
 <h3 align="center">DevOps Engineer </h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/harish507/DevOps-BrushUp/blob/main/animation_500_kxa883sd.gif" alt="harish-1277" /></p>
 
 [![Github](https://img.shields.io/github/followers/shashidhar087?label=Follow&style=social)](https://github.com/shashidhar087)
 
