@@ -55,7 +55,9 @@ I’m always learning and experimenting with new technologies. If you're interes
 
 ---
 
-## 🏅 AWS Certifications
+## 🏅 Certifications
+
+**Decoding DevOps with Projects** : https://www.udemy.com/certificate/UC-0ed1d923-8c8d-419a-9c49-b38fbd140132/
 
 Planning to achieve AWS Certified Solutions Architect - Associate (SAA-03)
 
@@ -67,6 +69,7 @@ Feel free to reach out if you want to collaborate, have questions, or just want 
 
 - **Email**: [harishbali1997@gmail.com](mailto:harishbali1997@gmail.com)
 - **LinkedIn**: linkedin.com/in/harish-bali-17a733111](https://www.linkedin.com/in/harish-bali-17a733111/)
+- **Portfolio**: https://harish.devvopsslabs.fun 
 
 ---
 
