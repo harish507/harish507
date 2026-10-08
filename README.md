@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=harish507&label=Profile%20Views&color=0e75b6&style=flat" alt="Harish Bali Profile Views" />
   </a>
   <a href="https://github.com/harish507?tab=followers">
-    <img src="https://img.shields.io/github/followers/harish507?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers=harish507?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <img align="right" src="https://github.com/harish507/DevOps-BrushUp/blob/main/animation_500_kxa883sd.gif" alt="DevOps Animation" width="350"/>
 </p>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
