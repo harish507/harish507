@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github.com/harish507/DevOps-BrushUp/blob/main/animation_500_kxa883sd.gif" alt="DevOps Animation" width="350" style="margin-left: 20px; margin-bottom: 20px;"/>
+<img align="right" src="https://github.com/harish507/DevOps-BrushUp/blob/main/animation_500_kxa883sd.gif" alt="DevOps Animation" width="350" style="margin-left: 20px; margin-top: 45px; margin-bottom: 20px;"/>
 
 I'm a **Senior DevOps Engineer with 7+ years of experience** in DevOps, Cloud, CI/CD automation, Kubernetes, Infrastructure as Code, GitOps, monitoring and cloud-native technologies.
 
