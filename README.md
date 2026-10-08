@@ -15,6 +15,8 @@
   <img align="right" src="https://github.com/harish507/DevOps-BrushUp/blob/main/animation_500_kxa883sd.gif" alt="DevOps Animation" width="350"/>
 </p>
 
+<br><br><br><br><br>
+
 ---
 
 ## 👨‍💻 About Me
